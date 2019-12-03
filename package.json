@@ -1,0 +1,15 @@
+{
+  "name": "traversy_jsdocs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jsdoc": "^3.6.3"
+  },
+  "scripts": {
+    "doc": "jsdoc -c jsdoc.json"
+  },
+  "author": "",
+  "license": "ISC"
+}
